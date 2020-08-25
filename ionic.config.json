@@ -1,0 +1,7 @@
+{
+  "name": "ionicTranslate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
